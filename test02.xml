@@ -1,1 +1,13 @@
-hola mundo
+1.untrack .. 2.stage .. 3.track
+
+init a repo
+mkdir *name folder* (to create a folder)
+git init (to create a test folder)
+pwd
+
+
+git add *file* (to stage)
+git add . (to stage all files)
+git commit -m "comment" (to push to repo)
+git restore --staged *file* (to move from stage to untrack)
+git log (to check logs on repo)
